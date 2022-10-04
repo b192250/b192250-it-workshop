@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> apni kaksha</title>
+</head>
+<body>
+<h1>Namaste world!</h1>
+<h2>Namaste world!</h2>
+<h3>Namaste world!</h3>
+<h4>Namaste world!</h4>
+<h5>Namaste world!</h5>
+<h6>Namaste world!</h6>
+<hr>
+<ol type="A" >
+<li>VALIHYDER</li>
+<li>FARHEEN</li>
+<li>SAMREEN</li>
+<li>YASMEEN</li>
+<li>MUSKAN</li>
+</ol>
+<hr>
+<ul type="circle">
+<li>VALIHYDER</li>
+<li>FARHEEN</li>
+<li>SAMREEN</li>
+<li>YASMEEN</li>
+<li>MUSKAN</li>
+</ul>
+<hr>
+<a href="" target="blank" >google</a>
+<hr>
+<br>
+the study of Physics many a times we come across physical quantities
+<p>which are either scalar or vector quantities. In order to understand the</p>
+vector operators one must have knowledge of Scalar and Vector point
+<p>functions. Let us first define what are these functions.</p>
+<hr>
+
+</body>
+</html>
